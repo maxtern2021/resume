@@ -1,0 +1,186 @@
+.top-cloud {
+  position: absolute;
+  right: 370px;
+  top: 40px;
+}
+
+.name1 {
+  margin: 50px auto 2.5rem auto;
+  font-family: 'Gluten', cursive;
+  font-size: 4.6875rem;
+  color: #B24080;
+}
+
+.name2 {
+  font-size: 2.5rem;
+  font-family: 'Barlow', sans-serif;
+  font-weight: normal;
+  color: #8236CB;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Gluten', cursive;
+  color: #8236CB;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+.top-container {
+  background-color: #e4f9ff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+
+.mountain {
+  width: 30%;
+  text-align: center;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.Hello {
+  font-size: 100px;
+  font-weight: normal;
+  margin: 0;
+  font-family: 'Barlow', sans-serif;
+
+}
+
+.introduction {
+  width: 50%;
+  margin: auto;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #CAB8FF;
+  border-width: 5px;
+  width: 3%;
+  margin: 100px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill-1 {
+  width: 30%;
+  float: left;
+  margin-right: 80px;
+}
+
+.skill-2 {
+  width: 30%;
+  float: right;
+  margin-left: 80px;
+}
+
+.skill-3 {
+  width: 30%;
+  float: left;
+  margin: 0 80px 0;
+}
+
+.skill-1 {
+  border-radius: 10%;
+  height: 150px;
+  width: 150px;
+}
+
+.skill-2 {
+  border-radius: 10%;
+  height: 150px;
+  width: 150px;
+}
+
+.skill-3 {
+  border-radius: 10%;
+  height: 150px;
+  width: 150px;
+}
+p{
+  font-size: 1.25rem;
+  line-height: 2;
+}
+.My-skills{
+  font-size: 50px;
+  font-family: 'Barlow', sans-serif;
+}
+.Touch{
+  font-size: 50px;
+  font-family: 'Barlow', sans-serif;
+}
+.passionate{
+  font-size: 25px;
+  font-family: 'Barlow', sans-serif;
+  color:#8236CB;
+}
+p{
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #4B6587;
+}
+.touch{
+  font-size: 50px;
+  font-family: 'Barlow', sans-serif;
+  color: #8236CB;
+}
+.passion{
+  font-size: 25px;
+  font-family: 'Barlow', sans-serif;
+  color: #8236CB;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.myButton {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin: 0;
+  padding: 50px 0 20px;
+}
+a{
+  font-family: font-family: 'Gluten', cursive;
+  color: #8236CB;
+  margin: 10px 15px;
+  text-decoration: none;
+}
